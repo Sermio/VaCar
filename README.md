@@ -2,9 +2,14 @@
 
 <h1>VaCar</h1>
 
+<strong>DISCLAIMER: </strong>Due to a Non-Disclosure Agreement (NDA) I have signed, I am unable to display or share the application code, this is a private application which was done to a specific Vet company. Thank you for your understanding.
 <h2>Description</h2>
 <p>
-  <strong>VaCar</strong> is a mobile application developed in Flutter aimed at streamlining veterinary operations. The app allows veterinarians to manage orders, track appointments, and maintain detailed records of clients and their pets, enhancing efficiency and simplicity.
+  <strong>VaCar</strong> is a mobile application developed in Flutter to streamline veterinary clinic management. It enables veterinarians to manage orders, schedule appointments, and maintain detailed records of clients and pets, enhancing efficiency and simplifying operations.
+  <br><br>
+  The application centralizes user creation by an administrator. Veterinarians can create, edit, and delete orders, view assignments, and track order status, including the veterinarian's location en route. This facilitates seamless communication and reduces wait times.
+  <br><br>
+  VaCar arose from the need to digitize veterinary processes, replacing the inefficient and potentially unsafe phone-based order management for veterinarians in transit. The application enables centralized management from mobile devices, report generation, and quick sharing via email or WhatsApp.
 </p>
 
 <h2>Features</h2>
@@ -35,17 +40,24 @@
   <li><strong>Providers:</strong> Manage the application state, including user and order data.</li>
 </ul>
 
-<h2>App images</h2>
+<h2>App video and images</h2>
 <p>
-  Here you can add images and a demo video showcasing the application's functionality.
+  Demo video: https://drive.google.com/file/d/1IxOIuZrRierQE0RXn9vClhOjwADmVbuy/view?usp=sharing
 </p>
 
+<p>
+  Here you can add images and a demo video showcasing the application's functionality:
+</p>
+
+
+Login, Order list and filters.
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github.com/user-attachments/assets/82dcfb2b-90e1-458d-8e44-6a9a4695cd82" alt="Login" width="200" hspace="30"/>
   <img src="https://github.com/user-attachments/assets/aa550946-8509-4055-add9-9ba9c4ff4aab" alt="Orders list" width="200" hspace="30"/>
   <img src="https://github.com/user-attachments/assets/a3505d76-4ddc-45c2-998a-b500aed1fd32" alt="Orders filters" width="200" hspace="30"/>
 </div>
 
+User profile, Orders creation and Orders information.
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github.com/user-attachments/assets/1ab8cb66-fae1-45fb-bb7a-00db198bb20c" alt="Profile" width="200" hspace="30"/>
   <img src="https://github.com/user-attachments/assets/fd033a47-9bd6-4f68-970b-324f45dc8232" alt="Orders creation" width="200" hspace="30"/>
@@ -53,12 +65,17 @@
 </div>
 
 
+Users chat, history and Admin view of users' list
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github.com/user-attachments/assets/2308516e-73d8-4f29-97f3-c6d58e493213" alt="Chat" width="200" hspace="30"/>
   <img src="https://github.com/user-attachments/assets/14028b04-6488-473e-bedb-3338218c98e0" alt="History" width="200" hspace="30"/>
+  <img src="https://github.com/user-attachments/assets/61b0703c-f301-44d5-b892-8ef80b58b036" alt="History" width="200" hspace="30"/>
 </div>
 
-
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github.com/user-attachments/assets/ff5e2c3f-de19-4b16-822b-1958d03111d9" alt="Chat" width="200" hspace="30"/>
+  <img src="https://github.com/user-attachments/assets/ed96c102-82f9-47b6-a35e-85afcd575ebe" alt="History" width="200" hspace="30"/>
+</div>
 
 
 
