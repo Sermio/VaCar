@@ -72,9 +72,10 @@ Users chat, history and Admin view of users' list
   <img src="https://github.com/user-attachments/assets/61b0703c-f301-44d5-b892-8ef80b58b036" alt="History" width="200" hspace="30"/>
 </div>
 
+Edit user information and create user
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/user-attachments/assets/ff5e2c3f-de19-4b16-822b-1958d03111d9" alt="Chat" width="200" hspace="30"/>
-  <img src="https://github.com/user-attachments/assets/ed96c102-82f9-47b6-a35e-85afcd575ebe" alt="History" width="200" hspace="30"/>
+  <img src="https://github.com/user-attachments/assets/ff5e2c3f-de19-4b16-822b-1958d03111d9" alt="Edit user" width="200" hspace="30"/>
+  <img src="https://github.com/user-attachments/assets/ed96c102-82f9-47b6-a35e-85afcd575ebe" alt="Create user" width="200" hspace="30"/>
 </div>
 
 
