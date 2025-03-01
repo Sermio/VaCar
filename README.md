@@ -46,7 +46,7 @@
 </p>
 
 <p>
-  Here you can see images and a demo video showcasing the application's functionality:
+  Here you can see images and a demo video showcasing the application's functionalities:
 </p>
 
 
